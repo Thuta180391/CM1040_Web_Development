@@ -1,0 +1,19 @@
+
+            h1
+            {
+                font-family: Arial, sans-serif;
+                font-style: italic;
+                font-weight: bold;
+            }
+            h2
+            {   
+                color: #FF5733;
+            }
+            p
+            {   
+                color: green;
+            }
+            body
+            { 
+                background-color: rgba(0, 0, 255, 0.5);
+            }
